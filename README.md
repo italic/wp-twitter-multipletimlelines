@@ -4,4 +4,5 @@ Allow you to show one or more Twitter timelines, and filter them with some hasht
 ![version](https://img.shields.io/badge/version-1.0-orange.svg?style=flat-square)
 ![wordpress](https://img.shields.io/badge/wordpress-4.5-brightgreen.svg?style=flat-square)
 
-Made by [@Florian-Italic](https://github.com/Florian-Italic)
+Made by [@Florian-Italic](https://github.com/Florian-Italic).
+Using [Abraham/TwitterOAuth](https://github.com/abraham/twitteroauth) and [Nojimage/Twitter-Text-PHP](https://packagist.org/packages/nojimage/twitter-text-php)
